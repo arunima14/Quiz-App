@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["New York", "London", "Paris", "Dublin"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+        "answer": "Leonardo Da Vinci"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Earth", "Mars", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["African Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "answer": "Au"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+    "question": "Who is the lead vocalist of the rock band 'Queen'?",
+    "options": ["Freddie Mercury", "John Lennon", "Mick Jagger", "David Bowie"],
+    "answer": "Freddie Mercury"
+    },
+    {
+    "question": "What is the currency of Japan?",
+    "options": ["Yuan", "Peso", "Dollar", "Yen"],
+    "answer": "Yen"
+    },
+    {
+    "question": "In which year did Christopher Columbus first voyage to the Americas?",
+    "options": ["1492", "1510", "1607", "1776"],
+    "answer": "1492"
+    }
+]
